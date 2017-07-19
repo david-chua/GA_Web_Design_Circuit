@@ -1,0 +1,45 @@
+
+.mainDiv {
+  height: 128px;
+}
+#icon {
+  float: left;
+  background-image: url("../images/movie_icon.png");
+  height: 128px;
+  width: 128px;
+}
+
+.ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float: right;
+  display: block;
+  margin: 50px 10px;
+  font-size: 1.4em;
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+.poster {
+  background-image: url("../images/Movies.jpg");
+  width: 100%;
+  height: 400px;
+}
+p{
+font-family: 'Vollkorn', serif;
+font-weight: 300;
+
+}
+h3{
+  font-family: 'Vollkorn', serif;
+  font-weight: 300;
+  text-align: center;
+}
