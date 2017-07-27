@@ -1,6 +1,7 @@
 
 .mainDiv {
   height: 128px;
+  background: #E8C66A; /*remove after next week*/
 }
 #icon {
   float: left;
@@ -39,8 +40,21 @@ font-family: 'Vollkorn', serif;
 font-weight: 300;
 
 }
-h3{
+
+aside{
+  float: left;
+  width: 50%;
+  background: #FFC675;
+  height: 30%;
+}
+
+article {
+  background: #E89C6C;
+}
+footer {
+  clear: both;
   font-family: 'Vollkorn', serif;
   font-weight: 300;
   text-align: center;
+  background: #FF967E; /*remove after next week*/
 }
